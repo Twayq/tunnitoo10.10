@@ -8,7 +8,7 @@ b = float(input("Sisesta oma b:"))
 # koosta muutuja a, lisa võimalus kasutajal sisestada arv, muuda see ujuvkomaarvuks
 # koosta muutuja b, lisa võimalus kasutajal sisestada arv, muuda see ujuvkomaarvuks
 # meie ülesandeks on leida hüpoteenus c, kolmnurga ümbermõõt ja pindala NB(vastused peavad olema ümardatud sajandikeni)
-hüpotenuusC = math.sqrt((a ** 2) + (b ** 2))
-P = a + b + hüpotenuusC
+hupotenuusC = math.sqrt((a ** 2) + (b ** 2))
+P = a + b + hupotenuusC
 S = (a * b) / 2
 
